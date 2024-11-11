@@ -1,0 +1,3 @@
+/home/minhmacg/projects/programs/videogames/games/vexed_chroma/build/CMakeFiles/vexed_chroma.dir
+/home/minhmacg/projects/programs/videogames/games/vexed_chroma/build/CMakeFiles/edit_cache.dir
+/home/minhmacg/projects/programs/videogames/games/vexed_chroma/build/CMakeFiles/rebuild_cache.dir

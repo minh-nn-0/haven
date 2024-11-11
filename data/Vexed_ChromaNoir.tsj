@@ -1,0 +1,14 @@
+{ "columns":110,
+ "image":"..\/assets\/images\/tilesets\/Vexed_ChromaNoir.png",
+ "imageheight":784,
+ "imagewidth":880,
+ "margin":0,
+ "name":"Vexed_ChromaNoir",
+ "spacing":0,
+ "tilecount":10780,
+ "tiledversion":"1.11.0",
+ "tileheight":8,
+ "tilewidth":8,
+ "type":"tileset",
+ "version":"1.10"
+}

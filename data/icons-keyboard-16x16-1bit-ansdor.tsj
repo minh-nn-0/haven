@@ -1,0 +1,14 @@
+{ "columns":12,
+ "image":"..\/..\/..\/..\/..\/..\/Downloads\/assets\/icons-keyboard-16x16-1bit-ansdor.png",
+ "imageheight":112,
+ "imagewidth":192,
+ "margin":0,
+ "name":"icons-keyboard-16x16-1bit-ansdor",
+ "spacing":0,
+ "tilecount":84,
+ "tiledversion":"1.11.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}
